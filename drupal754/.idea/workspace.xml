@@ -1,7 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9621d895-8afb-4219-a173-c2e161dc540e" name="Default" comment="" />
+    <list default="true" id="9621d895-8afb-4219-a173-c2e161dc540e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help-7.x-1.3.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/ahelp_tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/click_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-Andi_Gutmans_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-Lerdorf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/click_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane-7.x-2.0.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/buddy-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/buddy-remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/contact.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/private-message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/user-offline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/user-online.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/plugins/content_types/icon_user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus-7.x-1.3.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/bg_direction_nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/comment-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/no-new-posts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/pre-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/search-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/slide-image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/slide-image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/slide-image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced-help-popup.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help-icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/advanced_help.help.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/ini-file.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/readme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/translation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/using-advanced-help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/why-advanced-help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/about-php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/help_example.help.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/history.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/security.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/syntax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/usage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help_example.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help_example.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/advanced_help.help.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/ini-file.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/readme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/translation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/using-advanced-help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/why-advanced-help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author-pane-user-picture.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author-pane.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author_pane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author_pane.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author_pane.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author_pane.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/contact.author-pane.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/fasttoggle.author-pane.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/og.author-pane.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/user_badges.author-pane.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/user_titles.author-pane.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/userpoints.author-pane.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/plugins/content_types/author_pane.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/css/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/html5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/mobilemenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/superfish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/nexus.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/comment-wrapper.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/comment.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/html.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/maintenance-page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/node--forum.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/node.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/region.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/theme-settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,17 +116,55 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/nexus/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/nexus/templates/page.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="236" column="147" lean-forward="true" selection-start-line="236" selection-start-column="147" selection-end-line="236" selection-end-column="147" />
+              <folding>
+                <element signature="e#10975#10981#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Devsaran.</find>
+      <find>Devsaran</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sites/all/themes/nexus/templates/page.tpl.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -40,6 +179,7 @@
     <option name="width" value="1855" />
     <option name="height" value="1084" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -68,74 +208,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal754" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal754" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal754" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal754" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal754" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal754" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal754" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal754" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -156,6 +228,69 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -167,22 +302,22 @@
       <option name="presentableId" value="Default" />
       <updated>1496829916221</updated>
       <workItem from="1496829918665" duration="623000" />
-      <workItem from="1496906515856" duration="619000" />
+      <workItem from="1496906515856" duration="1537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1242000" />
+    <option name="totallyTimeSpent" value="2160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18814017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -193,12 +328,21 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -210,9 +354,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sites/all/themes/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/nexus/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/nexus/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="236" column="147" lean-forward="true" selection-start-line="236" selection-start-column="147" selection-end-line="236" selection-end-column="147" />
+          <folding>
+            <element signature="e#10975#10981#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
