@@ -2,105 +2,145 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9621d895-8afb-4219-a173-c2e161dc540e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help-7.x-1.3.tar.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/ahelp_tab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/click_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-Andi_Gutmans_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-Lerdorf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/click_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane-7.x-2.0.tar.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/buddy-add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/buddy-remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/contact.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/private-message.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/user-offline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/images/user-online.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/plugins/content_types/icon_user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus-7.x-1.3.tar.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/bg_direction_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/comment-arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/no-new-posts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/pre-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/search-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/slide-image-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/slide-image-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/images/slide-image-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced-help-popup.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help-icon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/advanced_help.help.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/ini-file.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/readme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/translation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/using-advanced-help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/why-advanced-help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/about-php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/help_example.help.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/history.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/security.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/syntax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/usage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help_example.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help_example.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/advanced_help.help.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/ini-file.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/readme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/translation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/using-advanced-help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/translations/help/nb/why-advanced-help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/CHANGELOG.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author-pane-user-picture.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author-pane.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author_pane.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author_pane.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author_pane.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/author_pane.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/contact.author-pane.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/fasttoggle.author-pane.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/og.author-pane.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/user_badges.author-pane.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/user_titles.author-pane.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/modules/userpoints.author-pane.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/author_pane/plugins/content_types/author_pane.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/css/flexslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/mobilemenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/slide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/js/superfish.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/nexus.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/block.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/comment-wrapper.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/comment.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/html.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/maintenance-page.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/node--forum.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/node.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/page.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/templates/region.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/nexus/theme-settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/fonts/juicebox.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/fonts/juicebox.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/fonts/juicebox.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/img/jb001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/img/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox-7.x-2.1.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/images/mimetypes/application-octet-stream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/images/mimetypes/audio-mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/images/mimetypes/audio-x-generic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/images/mimetypes/file-unknown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/images/mimetypes/image-x-generic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/images/mimetypes/video-x-generic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries-7.x-2.3.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_filefield_widget-7.x-1.13.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_imagefield_widget-7.x-1.3.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/fonts/juicebox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/full.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/juicebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/libraries.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/libraries.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/libraries.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/libraries.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/libraries.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/libraries.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/LibrariesAdminWebTest.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/LibrariesLoadWebTest.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/LibrariesUnitTest.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/LibrariesWebTestBase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example/example_4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/libraries/example_info_file.libraries.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/modules/libraries_test_module/libraries_test_module.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/modules/libraries_test_module/libraries_test_module.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/modules/libraries_test_module/libraries_test_module.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/modules/libraries_test_module/libraries_test_module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/modules/libraries_test_module/libraries_test_module.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/modules/libraries_test_module/libraries_test_module_post_load.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/themes/libraries_test_theme/libraries_test_theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/themes/libraries_test_theme/libraries_test_theme.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/themes/libraries_test_theme/libraries_test_theme.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/themes/libraries_test_theme/libraries_test_theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/libraries/tests/themes/libraries_test_theme/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/css/admin_styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/includes/JuiceboxGallery.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/includes/JuiceboxGalleryDecorator.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/includes/JuiceboxGalleryDrupal.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/includes/JuiceboxGalleryDrupalInterface.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/includes/JuiceboxGalleryInterface.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/includes/juicebox.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/includes/juicebox.field.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/js/juicebox_load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/juicebox.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/juicebox.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/juicebox.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/juicebox.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/plugins/JuiceboxFormatterViewsStyle.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/plugins/JuiceboxXmlField.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/plugins/JuiceboxXmlInterface.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/plugins/JuiceboxXmlViewsStyle.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/JuiceboxBaseCase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/JuiceboxConfCase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/JuiceboxConfGlobalCase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/JuiceboxFieldFormatterCase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/JuiceboxFileCase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/JuiceboxFileEntityCase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/JuiceboxSubRequestCase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/JuiceboxViewsCase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/views/default_views/test_file_base.view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/views/default_views/test_node_base.view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/views/default_views/test_row_formatter.view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/views/juicebox_views_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/tests/views/juicebox_views_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/juicebox/themes/juicebox.theme.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/libraries.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/libraries.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/libraries.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/libraries.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/libraries.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/libraries.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/LibrariesAdminWebTest.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/LibrariesLoadWebTest.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/LibrariesUnitTest.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/LibrariesWebTestBase.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example/example_4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/libraries/example_info_file.libraries.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/modules/libraries_test_module/libraries_test_module.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/modules/libraries_test_module/libraries_test_module.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/modules/libraries_test_module/libraries_test_module.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/modules/libraries_test_module/libraries_test_module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/modules/libraries_test_module/libraries_test_module.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/modules/libraries_test_module/libraries_test_module_post_load.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/themes/libraries_test_theme/libraries_test_theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/themes/libraries_test_theme/libraries_test_theme.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/themes/libraries_test_theme/libraries_test_theme.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/themes/libraries_test_theme/libraries_test_theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/libraries/tests/themes/libraries_test_theme/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_filefield_widget/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_filefield_widget/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_filefield_widget/mfw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_filefield_widget/multiupload_filefield_widget.field.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_filefield_widget/multiupload_filefield_widget.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_filefield_widget/multiupload_filefield_widget.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_filefield_widget/multiupload_filefield_widget.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_imagefield_widget/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_imagefield_widget/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_imagefield_widget/multiupload_imagefield_widget.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/multiupload_imagefield_widget/multiupload_imagefield_widget.module" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,7 +160,7 @@
         <entry file="file://$PROJECT_DIR$/sites/all/themes/README.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -139,8 +179,8 @@
       <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/nexus/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="236" column="147" lean-forward="true" selection-start-line="236" selection-start-column="147" selection-end-line="236" selection-end-column="147" />
+            <state relative-caret-position="1387">
+              <caret line="221" column="106" lean-forward="false" selection-start-line="221" selection-start-column="106" selection-end-line="221" selection-end-column="106" />
               <folding>
                 <element signature="e#10975#10981#0#HTML" expanded="true" />
               </folding>
@@ -302,25 +342,33 @@
       <option name="presentableId" value="Default" />
       <updated>1496829916221</updated>
       <workItem from="1496829918665" duration="623000" />
-      <workItem from="1496906515856" duration="1537000" />
+      <workItem from="1496906515856" duration="2216000" />
     </task>
+    <task id="LOCAL-00001" summary="- add forum">
+      <created>1496982432442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496982432442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2160000" />
+    <option name="totallyTimeSpent" value="2839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18814017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14177898" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -347,6 +395,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- add forum" />
+    <option name="LAST_COMMIT_MESSAGE" value="- add forum" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -355,7 +407,7 @@
     <entry file="file://$PROJECT_DIR$/sites/all/themes/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -370,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/nexus/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="236" column="147" lean-forward="true" selection-start-line="236" selection-start-column="147" selection-end-line="236" selection-end-column="147" />
+        <state relative-caret-position="1387">
+          <caret line="221" column="106" lean-forward="false" selection-start-line="221" selection-start-column="106" selection-end-line="221" selection-end-column="106" />
           <folding>
             <element signature="e#10975#10981#0#HTML" expanded="true" />
           </folding>
